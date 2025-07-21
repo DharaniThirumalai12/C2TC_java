@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: C2TC_Java
+Bundle-SymbolicName: C2TC_Java
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.eclipse.swt,
+ org.eclipse.jface
+Automatic-Module-Name: C2TC.Java
+Bundle-RequiredExecutionEnvironment: JavaSE-21
