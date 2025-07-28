@@ -1,4 +1,4 @@
-package day3.scannerdemo;
+package com.tnsif.daythree.scannerdemo;
 
 public class TaxCalculation {
 	public void calculateTax(Person person) {

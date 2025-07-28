@@ -1,4 +1,4 @@
-package day3.scannerdemo;
+package com.tnsif.daythree.scannerdemo;
 import java.util.Scanner;
 public class PersonDemo {
 	public static void main(String[] args) {
